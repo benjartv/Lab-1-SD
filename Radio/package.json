@@ -1,0 +1,16 @@
+{
+  "name": "Radio",
+  "version": "1.0.0",
+  "description": "Laboratorio 1 Sistemas Distribuidos 1-2015, Universidad de Santiago",
+  "main": "radio.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Sandoval, Benjamin Ruiz-Tagle, Jean Pierre Pla",
+  "license": "ISC"
+}
